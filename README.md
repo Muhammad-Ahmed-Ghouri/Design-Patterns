@@ -18,13 +18,25 @@ Design-Patterns/
 │   ├── Abstract Factory/
 │   ├── Builder/
 │   └── Prototype/
+│
 ├── Structural/
 │   ├── Adapter/
+│   ├── Bridge/
+│   ├── Composite/
 │   ├── Decorator/
 │   ├── Facade/
+│   ├── Flyweight/
 │   └── Proxy/
+│
 └── Behavioral/
-    ├── Observer/
-    ├── Strategy/
+    ├── Chain of Responsibility/
     ├── Command/
-    └── State/
+    ├── Interpreter/
+    ├── Iterator/
+    ├── Mediator/
+    ├── Memento/
+    ├── Observer/
+    ├── State/
+    ├── Strategy/
+    ├── Template Method/
+    └── Visitor/
